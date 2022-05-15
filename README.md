@@ -143,12 +143,18 @@ It consists of 23 input feature variables and a binary target variable which sho
                     
                     
               Evaluation Metrics.
-                     (i)  Classification Report for evaluation model performance.
+                     (i) Recall.
+                     (ii) F1 Score
                      
   ## Conclusion:
-                     (i)   After performing the various model we the get the best accuracy form the Random forest and XGBoost classifier.
-                     (ii)  Logestic Regression is the least accurate as compared to other models performed.
-                     (iii) XGBoost has the best precision and the recall balance.
+                    (i) After performing the various model we the get the best accuracy form the Random forest and XGBoost classifier.
 
+                    (ii) Logestic Regression is the least accurate as compared to other models performed.
+
+                   (iii) XGBoost has the best precision and the recall balance.
+
+                    (iv) Higher recall can be achieved if low precision is acceptable.
+
+                     (v) Model can be improved with more data and other advance models with higher computation power.
 
 
