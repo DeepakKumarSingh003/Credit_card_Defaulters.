@@ -142,9 +142,9 @@ It consists of 23 input feature variables and a binary target variable which sho
                     (iii) Feature Importances with help of Random Forest Classifier.
                     
                     
-              Evaluation Metrics.
-                     (i) Recall.
-                     (ii) F1 Score
+ # Evaluation Metrics.
+*  Recall.
+*  F1 Score
                      
   ## Conclusion:
                     (i) After performing the various model we the get the best accuracy form the Random forest and XGBoost classifier.
